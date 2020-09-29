@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**gtchecker/gtchecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+- 🌍 [Node.js](https://nodejs.org)
 
-Here are some ideas to get you started:
+### Projects
+- 🔰 [GTChecker API Wrapper](https://github.com/gtchecker/gtchecker.com) - OFFICIAL API Wrapper built for [GTChecker.com](https://gtchecker.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- 🙈 Improve frontend and backend design
+- 🌐 Develop more open source projects
+
+### Links
+- 🌐 [Website](https://gtchecker.com/)
+- 🐦 [Twitter](https://twitter.com/GTPSNChecker)
+- 🐧 [GitHub](https://github.com/gtchecker)
+- 🚨 [NPM](https://www.npmjs.com/package/gtchecker.com)
